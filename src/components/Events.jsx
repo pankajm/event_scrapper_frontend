@@ -1,5 +1,7 @@
 /**
  * This is main parent component of this application having Events state.
+ * This component have one search component which is used to filter events data
+ * as users types
  */
 
 import React, { Component } from "react";
